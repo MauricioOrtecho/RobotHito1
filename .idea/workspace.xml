@@ -28,7 +28,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
+            <state relative-caret-position="39">
               <caret line="39" column="18" lean-forward="true" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
@@ -219,12 +219,12 @@
       <workItem from="1571756481390" duration="3129000" />
       <workItem from="1571871927240" duration="8773000" />
       <workItem from="1572563038010" duration="3682000" />
-      <workItem from="1572567623073" duration="418000" />
+      <workItem from="1572567623073" duration="694000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27413000" />
+    <option name="totallyTimeSpent" value="27689000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -233,7 +233,7 @@
       <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.27010724" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.64497876" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.8231966" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="3" />
       <window_info anchor="bottom" id="Messages" order="4" weight="0.7807638" />
@@ -277,7 +277,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
+        <state relative-caret-position="39">
           <caret line="39" column="18" lean-forward="true" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
