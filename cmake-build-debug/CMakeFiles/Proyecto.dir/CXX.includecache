@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Asus/Desktop/Universidad/Sexto ciclo/POO/Proyecto/Instruccion.h
+
+C:/Users/Asus/Desktop/Universidad/Sexto ciclo/POO/Proyecto/Producto.h
+
+C:/Users/Asus/Desktop/Universidad/Sexto ciclo/POO/Proyecto/Robot.cpp
+Robot.h
+C:/Users/Asus/Desktop/Universidad/Sexto ciclo/POO/Proyecto/Robot.h
+iostream
+-
+
+C:/Users/Asus/Desktop/Universidad/Sexto ciclo/POO/Proyecto/Robot.h
+Instruccion.h
+C:/Users/Asus/Desktop/Universidad/Sexto ciclo/POO/Proyecto/Instruccion.h
+Slot.h
+C:/Users/Asus/Desktop/Universidad/Sexto ciclo/POO/Proyecto/Slot.h
+
+C:/Users/Asus/Desktop/Universidad/Sexto ciclo/POO/Proyecto/Slot.h
+Producto.h
+C:/Users/Asus/Desktop/Universidad/Sexto ciclo/POO/Proyecto/Producto.h
+

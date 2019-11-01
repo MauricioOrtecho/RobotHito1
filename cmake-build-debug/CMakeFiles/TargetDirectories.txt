@@ -1,0 +1,3 @@
+C:/Users/Asus/Desktop/Universidad/Sexto ciclo/POO/Proyecto/cmake-build-debug/CMakeFiles/Proyecto.dir
+C:/Users/Asus/Desktop/Universidad/Sexto ciclo/POO/Proyecto/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Asus/Desktop/Universidad/Sexto ciclo/POO/Proyecto/cmake-build-debug/CMakeFiles/rebuild_cache.dir
