@@ -12,6 +12,8 @@
 using namespace std;
 #define TAM 10
 
+
+// Funcion que posiciona el cursor
 void gotoxy(int x,int y){
     HANDLE hcon;
     hcon = GetStdHandle(STD_OUTPUT_HANDLE);
